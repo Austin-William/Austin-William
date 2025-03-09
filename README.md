@@ -2,11 +2,10 @@ Hello ✌️
 
 I'm Austin and I'm a full-stack developer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-William&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-William&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Austin-William's GitHub stats](https://github-readme-stats.vercel.app/api?username=Austin-William&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Austin-William&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Austin-William's GitHub stats](https://github-readme-stats.vercel.app/api?username=Austin-William&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Austin-William/Austin-William** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
